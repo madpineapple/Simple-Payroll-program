@@ -1,0 +1,13 @@
+﻿  CurrentPayPeriods.cpp
+c:\users\user\source\repos\finalproject\finalproject\currentpayperiods.h(135): warning C4101: 'myReader': unreferenced local variable
+  Form2.cpp
+c:\users\user\source\repos\finalproject\finalproject\current employees.h(119): warning C4101: 'myReader': unreferenced local variable
+c:\users\user\source\repos\finalproject\finalproject\currentpayperiods.h(135): warning C4101: 'myReader': unreferenced local variable
+c:\users\user\source\repos\finalproject\finalproject\searchdate.h(171): warning C4101: 'myReader': unreferenced local variable
+  login.cpp
+c:\users\user\source\repos\finalproject\finalproject\current employees.h(119): warning C4101: 'myReader': unreferenced local variable
+c:\users\user\source\repos\finalproject\finalproject\currentpayperiods.h(135): warning C4101: 'myReader': unreferenced local variable
+c:\users\user\source\repos\finalproject\finalproject\searchdate.h(171): warning C4101: 'myReader': unreferenced local variable
+  Generating Code...
+  AddEmployee.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  FinalProject.vcxproj -> C:\Users\user\source\repos\FinalProject\Debug\FinalProject.exe
